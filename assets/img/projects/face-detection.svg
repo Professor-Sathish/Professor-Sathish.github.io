@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500"><defs><radialGradient id="bg" cx="50%" cy="40%" r="75%"><stop offset="0" stop-color="#0b3a6e"/><stop offset="1" stop-color="#03111f"/></radialGradient></defs><rect width="500" height="500" fill="url(#bg)"/>
+<g fill="none" stroke="#4fc3f7" stroke-width="3">
+<circle cx="130" cy="170" r="38"/><circle cx="250" cy="150" r="44"/><circle cx="370" cy="175" r="36"/>
+<path d="M75 290q55-70 110 0M190 290q60-80 120 0M318 290q52-68 104 0"/></g>
+<g fill="none" stroke-width="3"><rect x="86" y="122" width="88" height="96" stroke="#5be38a"/><rect x="200" y="96" width="100" height="108" stroke="#5be38a"/><rect x="328" y="129" width="84" height="92" stroke="#ffb74d" stroke-dasharray="7 5"/></g>
+<g font-family="Poppins,Arial,sans-serif" font-size="14"><text x="88" y="114" fill="#5be38a">0.97</text><text x="202" y="88" fill="#5be38a">0.99</text><text x="330" y="121" fill="#ffb74d">low quality</text></g>
+<g font-family="Poppins,Arial,sans-serif" text-anchor="middle"><text x="250" y="380" fill="#ffffff" font-size="32" font-weight="bold">97.2% @ 23 FPS</text><text x="250" y="420" fill="#9ad8f7" font-size="15">Quality-gated Viola-Jones + CNN verification</text></g></svg>

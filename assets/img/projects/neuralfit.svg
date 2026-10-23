@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500"><defs><radialGradient id="bg" cx="50%" cy="40%" r="75%"><stop offset="0" stop-color="#0b3a6e"/><stop offset="1" stop-color="#03111f"/></radialGradient></defs><rect width="500" height="500" fill="url(#bg)"/>
+<g stroke="#4fc3f7" stroke-width="4" fill="none" stroke-linecap="round">
+<path d="M250 120v95M250 140l-55 40-30 55M250 140l55 40 40-40M250 215l-45 70-10 60M250 215l50 65 45 45"/></g>
+<g fill="#ffffff"><circle cx="250" cy="98" r="20"/><circle cx="250" cy="140" r="7"/><circle cx="195" cy="180" r="7"/><circle cx="165" cy="235" r="7"/><circle cx="305" cy="180" r="7"/><circle cx="345" cy="140" r="7"/><circle cx="250" cy="215" r="7"/><circle cx="205" cy="285" r="7"/><circle cx="195" cy="345" r="7"/><circle cx="300" cy="280" r="7"/><circle cx="345" cy="325" r="7"/></g>
+<g font-family="Poppins,Arial,sans-serif" text-anchor="middle"><text x="250" y="410" fill="#ffffff" font-size="34" font-weight="bold">NeuralFit</text><text x="250" y="442" fill="#9ad8f7" font-size="16">33 landmarks · &lt;80 ms per frame</text></g></svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500"><defs><radialGradient id="bg" cx="50%" cy="40%" r="75%"><stop offset="0" stop-color="#0b3a6e"/><stop offset="1" stop-color="#03111f"/></radialGradient></defs><rect width="500" height="500" fill="url(#bg)"/>
+<g stroke="#4fc3f7" stroke-width="3" fill="none"><rect x="215" y="70" width="70" height="22" rx="6"/><path d="M215 81h-45M285 81h45"/><ellipse cx="160" cy="81" rx="28" ry="6"/><ellipse cx="340" cy="81" rx="28" ry="6"/>
+<path d="M230 92l-60 170M270 92l60 170" stroke-dasharray="6 6" opacity=".6"/></g>
+<g stroke="#9ad8f7" stroke-width="2" fill="none"><path d="M140 300L210 260L290 290L360 250M210 260L230 330L290 290M140 300L230 330L320 340L360 250M290 290L320 340"/></g>
+<g fill="#ffffff"><circle cx="140" cy="300" r="9"/><circle cx="210" cy="260" r="9"/><circle cx="230" cy="330" r="9"/><circle cx="320" cy="340" r="9"/><circle cx="360" cy="250" r="9"/></g><circle cx="290" cy="290" r="13" fill="#ff5a6e"/>
+<g font-family="Poppins,Arial,sans-serif" text-anchor="middle"><text x="250" y="410" fill="#ffffff" font-size="34" font-weight="bold">GraphSAGE</text><text x="250" y="442" fill="#9ad8f7" font-size="16">Real-time target tracking in UAV video</text></g></svg>

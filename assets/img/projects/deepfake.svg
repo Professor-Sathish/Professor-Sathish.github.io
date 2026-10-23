@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500"><defs><radialGradient id="bg" cx="50%" cy="40%" r="75%"><stop offset="0" stop-color="#0b3a6e"/><stop offset="1" stop-color="#03111f"/></radialGradient></defs><rect width="500" height="500" fill="url(#bg)"/>
+<g fill="none" stroke="#4fc3f7" stroke-width="3">
+<rect x="70" y="110" width="150" height="190" rx="8"/><rect x="280" y="110" width="150" height="190" rx="8" stroke-dasharray="8 6"/>
+<ellipse cx="145" cy="195" rx="42" ry="55"/><ellipse cx="355" cy="195" rx="42" ry="55"/>
+<path d="M128 182h8M154 182h8M135 222q10 8 20 0M338 182h8M364 182h8M345 222q10 8 20 0"/>
+<path d="M232 205h36" stroke-width="4"/><path d="M258 195l10 10-10 10" stroke-width="4"/>
+<path d="M300 140l25 30-20 20 30 35-15 25" stroke="#ff5a6e"/></g>
+<g font-family="Poppins,Arial,sans-serif" text-anchor="middle"><text x="145" y="330" fill="#9ad8f7" font-size="18">REAL</text><text x="355" y="330" fill="#ff8a98" font-size="18">FAKE</text>
+<text x="250" y="400" fill="#ffffff" font-size="30" font-weight="bold">AHMcRAN</text><text x="250" y="432" fill="#9ad8f7" font-size="16">Spatio-temporal deepfake detection</text></g></svg>
